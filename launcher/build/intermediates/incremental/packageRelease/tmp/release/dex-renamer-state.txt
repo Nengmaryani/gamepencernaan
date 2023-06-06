@@ -1,0 +1,4 @@
+#Sat May 13 23:38:55 ICT 2023
+base.0=D\:\\Users\\User\\Unity3D\\game pencernaan.apk\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
